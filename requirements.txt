@@ -1,2 +1,4 @@
 relativistic_loss
 datasets
+diffusers
+accelerate
